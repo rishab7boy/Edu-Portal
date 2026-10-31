@@ -20,7 +20,7 @@ This repository is designed to be **easy to run locally** and includes a script 
 
 ## Requirements
 
-- Python **3.10+** recommended
+- Python **3.10+** 
 
 Install dependencies:
 
