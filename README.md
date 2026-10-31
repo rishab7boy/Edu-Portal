@@ -133,7 +133,8 @@ Example:
 ```bash
 python seed_dummy_db.py --db demo.db --force
 ```
-
+git add .
+git commit -m "Initial commit: Build EduPortal using Flask and SQLite"
 ---
 
 ## Default Credentials
